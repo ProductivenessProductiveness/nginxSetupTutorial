@@ -4,3 +4,4 @@
 2. sshで接続
 3. sudo bash
 4. amazon-linux-extras install -y nginx1.12
+5. sudo systemctl start nginx
